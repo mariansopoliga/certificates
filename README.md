@@ -1,11 +1,13 @@
 # 📄 Certificates
 
-This repository contains my professional certificates from completed training programs in:
+- ✅ Software Testing Fundamentals  
+  📄 Radek Kitner (2021) — [View Certificate](https://github.com/mariansopoliga/certificates/raw/main/966816147.pdf)
 
-- ✅ Manual Software Testing  
-- ✅ Python Programming (ENGETO Academy)  
-  🔗 [View ENGETO Certificate](https://github.com/mariansopoliga/certificates/raw/main/2024-PY-060-Marián%20Sopoliga.pdf)
-- ✅ Digital tools and customer service systems  
+- ✅ Python Programming  
+  🏫 ENGETO Academy (2024) — [View Certificate](https://github.com/mariansopoliga/certificates/raw/main/2024-PY-060-Marián%20Sopoliga.pdf)
+
+- ✅ Digital Tools and Customer Service Systems
+
 
 These documents support my transition into IT and QA roles and reflect my commitment to continuous learning.
 
